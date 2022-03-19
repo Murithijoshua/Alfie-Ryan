@@ -1,0 +1,21 @@
+{
+  "title": "Our In-house products",
+  "text": "The following are Services we do offer.",
+  "section": [
+    {
+      "title": "Hospital revenue system.",
+      "content": "Revenue collection, cash and  non cash Billing Collections per department",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Hospital/ community pharmacy Management",
+      "content": "Monthly consumption averages Dispensing per mode of payment.Stock management, expires, stock levels etc",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Hospital Management Information System",
+      "content": "Patient registration, billing, Triaging.  Clerking by ICD10/11, Lab and Commodity  Management systems.Nurses cardex and Out put to KHIS.",
+      "icon": "notes.svg"
+    }
+  ]
+}

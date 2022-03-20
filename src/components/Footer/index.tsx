@@ -86,7 +86,7 @@ const Footer = ({ t }: any) => {
               <Empty />
               <Language>{t("Address")}</Language>
               <Para>Alfie &amp; Ryan Limited</Para>
-              <Para>P.O Box xxx-0200</Para>
+              <Para>P.O BOX 101169-00101</Para>
               <Para>Nairobi, Kenya</Para>
             </Col>
             <Col lg={8} md={8} sm={12} xs={12}>

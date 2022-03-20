@@ -10,7 +10,7 @@ interface props{
 
 const ColoredLine = ({title,t}:props)=>{
     return(
-        <Slide direction="right">
+        <Slide direction="left">
        <HorizontalHeading>
            <h2>{t(title)}</h2>
        </HorizontalHeading>
